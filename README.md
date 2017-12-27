@@ -1,0 +1,2 @@
+# basicSetup
+bashrc, vim, ..
